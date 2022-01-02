@@ -1,0 +1,4 @@
+Decode the audio to get the flag
+hint1: Find the code behind the audio
+hint2: Look for the password in the image
+hint3: Apply the found password in the audio

@@ -1,0 +1,5 @@
+key=We Are MIST
+the key is found in the image file at the end
+the audio is decoded using steganography
+apply the key as the password to the audio file
+the flag is base64 encoded
